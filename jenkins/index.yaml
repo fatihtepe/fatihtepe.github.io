@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   jenkins:
   - apiVersion: v1
-    created: "2022-11-26T10:59:37.95942-05:00"
+    created: "2022-11-26T11:06:57.167756-05:00"
     description: Setup of jenkins manifests
-    digest: 3f249d77f69aa56c3b8cc2ebcff4a97dff83c1df45a60415f9435ce36e0f14bd
+    digest: b9c9bb70e45c0dd3d2c5c8ad53d1898389befd82065ef80a333cceaa7ce1cc50
     keywords:
     - jenkins
     maintainers:
@@ -14,4 +14,4 @@ entries:
     urls:
     - https://fatihtepe.github.io/jenkins-1.0.0.tgz
     version: 1.0.0
-generated: "2022-11-26T10:59:37.958967-05:00"
+generated: "2022-11-26T11:06:57.167382-05:00"
