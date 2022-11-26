@@ -1,9 +1,0 @@
-apiVersion: v1
-name: jenkins
-description: Setup of jenkins manifests
-keywords:
-- jenkins
-version: 1.0.0
-maintainers:
-- name: fatih tepe
-  email: fatihtepe@gmail.com
